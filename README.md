@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @PrashnikJS
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...html ,cs50 course
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...www.linkedin.com/in/prashnik-prityartha-567438221
+# Hi, I'm Prashnik
 
-<!---
-PrashnikJS/PrashnikJS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm learning web development and machine learning through projects and coursework.
+
+- **Currently learning:** web development and machine learning
+- **Recent projects:**
+  - [Traffic Intel](https://github.com/PrashnikJS/Traffic-Intel) — an emergency-response dashboard prototype with an interactive incident map and mock data.
+  - [ML learnings](https://github.com/PrashnikJS/MY-ML-LEARNINGS) — notes and an implementation notebook from my machine-learning coursework.
+- **LinkedIn:** [Prashnik Prityartha](https://www.linkedin.com/in/prashnik-prityartha-567438221/)
